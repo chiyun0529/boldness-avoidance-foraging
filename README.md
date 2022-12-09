@@ -1,5 +1,5 @@
 # boldness-avoidance-foraging
-Repository for data and analytical R code for the boldness-avoidance foraging covariation paper
+Repository for data and analytical R code for the manuscript entitled "Avoidance learning reduces the boldness-foraging behavior covariation in a generalist predator", currently under review for Behavioral Ecology  
 
 List of files:
 
