@@ -5,7 +5,7 @@ List of files:
 
 1. exploration.csv: exploration data
 
-**id:** the unique ID of experimental individuals/ 
+**id:** the unique ID of experimental individuals  
 **sex:** sex of the individual/
 **population:** population of origin. Shou and Mei: two nonfocal populations in Kaohsiung, KS: the focal population in Kaohsiung, PT: Pingtung/
 **exp:** exploration trial number, values are 1 (the first trial) or 2 (the second trial)/
