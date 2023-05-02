@@ -3,8 +3,7 @@ Repository for data and analytical R code for the manuscript entitled "Intricate
 
 List of files:
 
-1. exploration.csv: exploration data
-
+1. exploration.csv: exploration data  
   **id:** the unique ID of experimental individuals  
   **sex:** sex of the individual  
   **population:** population of origin. Shou and Mei: two nonfocal populations in Kaohsiung, KS: the focal population in Kaohsiung, PT: Pingtung  
@@ -21,8 +20,7 @@ List of files:
 2. dff5b.csv: raw data from exploration and avoidance learning trials
   **id:** the unique ID of the individual  
   **sex:** sex of the individual  
-  **group:** treatment group in avoidance learing experiments. R: individuals encountered red-bitter and yellow-normal color taste combination. Y:   
-             individuals encountered yellow-bitter and red-normal color taste combination  
+  **group:** treatment group in avoidance learing experiments. R: individuals encountered red-bitter and yellow-normal color taste combination. Y: individuals encountered yellow-bitter and red-normal color taste combination  
   **exp:** trial number, ranging from 1 to 5. See Materials and Methods for more details  
   **exp_date:** date of experiment  
   **latency:** foraging latency in seconds  
