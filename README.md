@@ -5,14 +5,14 @@ List of files:
 
 1. exploration.csv: exploration data
 
-**id:** the unique ID of experimental individuals
-**sex:** sex of the individual
-**population:** population of origin. Shou and Mei: two nonfocal populations in Kaohsiung, KS: the focal population in Kaohsiung, PT: Pingtung
-**exp:** exploration trial number, values are 1 (the first trial) or 2 (the second trial)
-**1stMove:** moving latency in seconds
-**cross:** time of first entering the novel environment, values in seconds
-**percent_visible:** precent time being visible 
-**moving_bouts:** the number of moving bouts in a trial
+**id:** the unique ID of experimental individuals/
+**sex:** sex of the individual/
+**population:** population of origin. Shou and Mei: two nonfocal populations in Kaohsiung, KS: the focal population in Kaohsiung, PT: Pingtung/
+**exp:** exploration trial number, values are 1 (the first trial) or 2 (the second trial)/
+**1stMove:** moving latency in seconds/
+**cross:** time of first entering the novel environment, values in seconds/
+**percent_visible:** precent time being visible /
+**moving_bouts:** the number of moving bouts in a trial/
 **precent_moving:** percent time spent moving
 **percent_novel:** percent time in the novel environment
 **pc1:** score of the first principal component. See Materials and Methods for more detail
