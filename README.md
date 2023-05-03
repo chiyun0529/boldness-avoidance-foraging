@@ -17,7 +17,7 @@ List of files:
   **pc1:** score of the first principal component. See Materials and Methods for more detail  
   **pc2:** score of the second principal component. See Materials and Methods for more detail  
  
-2. dff5b.csv: raw data from exploration and avoidance learning trials
+2. dff5b.csv: raw data from exploration and avoidance learning trials  
   **id:** the unique ID of the individual  
   **sex:** sex of the individual  
   **group:** treatment group in avoidance learing experiments. R: individuals encountered red-bitter and yellow-normal color taste combination. Y: individuals encountered yellow-bitter and red-normal color taste combination  
