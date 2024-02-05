@@ -1,5 +1,5 @@
 # boldness-avoidance-foraging
-Repository for data and analytical R code for the manuscript entitled "Intricate covariation between exploration and avoidance learning in a generalist predator", currently being considered for publication in Behavioral Ecology  
+Repository for data and analytical R code for the manuscript "Intricate covariation between exploration and avoidance learning in a generalist predator" in Behavioral Ecology 34: 708-717. 
 
 List of files:
 
